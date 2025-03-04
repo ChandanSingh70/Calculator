@@ -49,7 +49,7 @@ img:hover{
 
 <%@include file="index.html" %>
 
-<h1>Ans=<%=request.getParameter("ans")%>🚩</h1>
+<h1>Ans=<%=request.getParameter("ans")%>&#128681</h1>
 
 </body>
 </html>
