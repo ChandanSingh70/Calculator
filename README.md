@@ -19,21 +19,6 @@ This is a simple Java-based web application that performs basic arithmetic opera
 **Project Structure**  
 ![image](https://github.com/user-attachments/assets/8f8d2ac8-2d69-4db2-924b-8c1db19428f3)
 
-📦 MyServletProject
-┣ 📂 src/MyPackage
-┃ ┣ 📜 MyServlet.java
-┣ 📂 WebContent
-┃ ┣ 📂 images
-┃ ┃ ┣ 📜 icons8-calculator-50.png
-┃ ┃ ┣ 📜 icons8-output-50.png
-┃ ┣ 📜 index.html
-┃ ┣ 📜 result.jsp
-┣ 📜 README.md
-┣ 📜 web.xml
-┣ 📜 pom.xml (If using Maven)
-
-
-
 **How to Run the Project?**  
 **Prerequisites**  
 Ensure you have the following installed on your system:  
