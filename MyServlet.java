@@ -16,7 +16,7 @@ public class MyServlet extends HttpServlet {
 	        "I told my computer I needed a break, and now it won't stop sending me Kit Kat bars.",
 	        "Why don't programmers like nature? It has too many bugs.",
 	        "How many programmers does it take to change a light bulb? None, it's a hardware problem.",
-	        // Add more jokes here
+	        // if you want you can add more jokes here.
 	    };
        
     /**
